@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura South"
 title_separator          : "-"
 name                     : &name "Laura South"
-description              : &description "PhD Candidate at Northeastern University"
+description              : &description "Visiting Assistant Professor of Computer Science at Williams College"
 url                      : https://lsouth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsouth/lsouth.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Laura South"
   avatar           : "laura-south-424x424.jpg"
-  bio              : "PhD candidate and accessibility researcher at Northeastern University"
-  location         : "Boston, MA"
-  employer         : "Northeastern University"
+  bio              : "Visiting Assistant Professor of Computer Science at Williams College"
+  location         : "Williamstown, MA"
+  employer         : "Williams College"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yRTXb80AAAAJ&hl=en"
-  email            : "south.l@northeastern.edu"
+  email            : "ls22@williams.edu"
   researchgate     :
   uri              :
   bitbucket        :
